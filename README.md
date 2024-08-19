@@ -5,9 +5,17 @@ Soy una desarrolladora FullStack con especialización en Frontend. Originaria de
 Estoy comprometida a mejorar continuamente mis habilidades para alinearme con las mejores prácticas en la gestión de proyectos y en las metodologías ágiles. Mi objetivo es contribuir a proyectos innovadores, colaborar con equipos dinámicos y seguir creciendo como profesional en el campo del desarrollo frontend.
 
 #### **Tecnologías** 💻
-Trabajo con tecnologías frontend modernas, incluyendo HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS y otras librerías y frameworks relacionados.
+Trabajo con tecnologías frontend modernas, incluyendo:
+- **React** 
+- **Next.js** 
+- **Tailwind**
+- **TypeScript**
+- **JavaScript**
+- **CSS3**
+- **PostgreSQL**
+- **MongoDB**
 
-#### **Idiomas**
+#### **Idiomas** 🌍
 - **Español:** Lengua materna
 - **Italiano:** C2
 - **Inglés:** B2
