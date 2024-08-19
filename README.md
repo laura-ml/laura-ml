@@ -11,7 +11,8 @@ Trabajo con tecnologías frontend modernas, incluyendo HTML, CSS, JavaScript, Ty
 - **Español:** Lengua materna
 - **Italiano:** C2
 - **Inglés:** B2
-- 📫 #### **Idiomas**
+  
+#### **Contacto** 📫
 - Para más información o para discutir posibles colaboraciones, puedes contactarme a través de mi perfil de GitHub o en [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-laura-arcucci/).
   
 
