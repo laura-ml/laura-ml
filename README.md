@@ -1,16 +1,17 @@
-## Hi there 👋
+#### **Quién soy** ⚡
+Soy una desarrolladora FullStack con especialización en frontend. Originaria de Argentina, actualmente vivo en Roma. Mi formación en programación, junto con mis estudios universitarios en psicología, me ha enseñado lo valioso que es la colaboración y la comunicación efectiva, tanto en el ámbito académico como en el desarrollo de proyectos grupales. Esta experiencia ha aumentado mi pasión por la programación y por la gestión de equipos y proyectos.
 
-<!--
-**laura-ml/laura-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **Objetivos**
+Estoy comprometida a mejorar continuamente mis habilidades para alinearme con las mejores prácticas en la gestión de proyectos y en las metodologías ágiles. Mi objetivo es contribuir a proyectos innovadores, colaborar con equipos dinámicos y seguir creciendo como profesional en el campo del desarrollo frontend.
 
-Here are some ideas to get you started:
+#### **Tecnologías**
+Trabajo con tecnologías frontend modernas, incluyendo HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS y otras librerías y frameworks relacionados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### **Idiomas**
+- **Español:** Lengua materna
+- **Italiano:** C2
+- **Inglés:** B2
+- 📫 #### **Idiomas**
+- Para más información o para discutir posibles colaboraciones, puedes contactarme a través de mi perfil de GitHub o en [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-laura-arcucci/).
+  
 -->
