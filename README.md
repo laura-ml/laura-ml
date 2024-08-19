@@ -1,5 +1,5 @@
 #### **Quién soy** ⚡
-Soy una desarrolladora FullStack con especialización en frontend. Originaria de Argentina, actualmente vivo en Roma. Mi formación en programación, junto con mis estudios universitarios en psicología, me ha enseñado lo valioso que es la colaboración y la comunicación efectiva, tanto en el ámbito académico como en el desarrollo de proyectos grupales. Esta experiencia ha aumentado mi pasión por la programación y por la gestión de equipos y proyectos.
+Soy una desarrolladora FullStack con especialización en Frontend. Originaria de Argentina, actualmente vivo en Roma. Mi formación en programación, junto con mis estudios universitarios en psicología, me ha enseñado lo valioso que es la colaboración y la comunicación efectiva, tanto en el ámbito académico como en el desarrollo de proyectos grupales. Esta experiencia ha aumentado mi pasión por la programación y por la gestión de equipos y proyectos.
 
 #### **Objetivos** 🎯
 Estoy comprometida a mejorar continuamente mis habilidades para alinearme con las mejores prácticas en la gestión de proyectos y en las metodologías ágiles. Mi objetivo es contribuir a proyectos innovadores, colaborar con equipos dinámicos y seguir creciendo como profesional en el campo del desarrollo frontend.
