@@ -21,6 +21,7 @@ Trabajo con tecnologías frontend modernas, incluyendo:
 - **Inglés:** B2
   
 #### **Contacto** 📫
-- Para más información o para discutir posibles colaboraciones, puedes contactarme a través de mi perfil de GitHub o en [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-laura-arcucci/).
+- Para más información o para discutir posibles colaboraciones, puedes contactarme a través de mi perfil de GitHub, en [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-laura-arcucci/).
+- Email: lau.arcucci03@gmail.com
   
 
